@@ -1,12 +1,13 @@
+Notice
+--------
+This is a fork of [Googletrans](https://github.com/ssut/py-googletrans) made specifically for use by the Discord bot Iodine.
+
+You can add it [here](https://top.gg/bot/935862654138978314).
+
+
+
 Googletrans
-===========
-
-**Note**: I do this patch for my own project related with this issue https://github.com/ssut/py-googletrans/issues/328
-
-
-
-
-_____________________________________________
+--------
 
 Googletrans is a **free** and **unlimited** python library that
 implemented Google Translate API. This uses the `Google Translate Ajax
