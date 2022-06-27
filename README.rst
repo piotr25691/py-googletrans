@@ -1,8 +1,8 @@
 Notice
 --------
-This is a fork of [Googletrans](https://github.com/ssut/py-googletrans) made specifically for use by the Discord bot Iodine.
+This is a fork of `Googletrans <https://github.com/ssut/py-googletrans>`__ made specifically for use by the Discord bot Iodine.
 
-You can add it [here](https://top.gg/bot/935862654138978314).
+You can add it `here <https://top.gg/bot/935862654138978314>`__.
 
 
 
